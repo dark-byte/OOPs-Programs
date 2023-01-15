@@ -1,5 +1,3 @@
-import TimeConverter.timeConverter;
-
 interface Resume{
     void biodata();
 }
@@ -35,7 +33,7 @@ class Student implements Resume{
     }
 }
 
-public class seven{
+public class no7{
 
     public static void main(String args[]){
         Teacher t = new Teacher("Arun Kumar","Phd", 54);

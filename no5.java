@@ -22,7 +22,7 @@ class Quadrilateral
 
 }
 
-class five
+class no5
 {
 
     public static void main(String args[])

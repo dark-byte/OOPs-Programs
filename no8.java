@@ -26,7 +26,7 @@ class Cube extends Thread{
 
 
 
-public class eight extends Thread{
+public class no8 extends Thread{
 
     public void run(){
         Random random = new Random();
@@ -48,7 +48,7 @@ public class eight extends Thread{
     }
 
     public static void main(String args[]){
-        eight e = new eight();
+        no8 e = new no8();
         e.start();
     }
 }

@@ -2,7 +2,7 @@ import CurrencyConverter.*;
 import TimeConverter.*;
 import DistanceConverter.*;
 
-public class six {
+public class no6 {
     public static void main(String args[]){
         currencyConverter cc = new currencyConverter();
         cc.usdToInr();
